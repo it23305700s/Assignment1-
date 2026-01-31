@@ -1,0 +1,22 @@
+{
+  "name": "assignment1-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it23305700s/Assignment1-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/it23305700s/Assignment1-/issues"
+  },
+  "homepage": "https://github.com/it23305700s/Assignment1-#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.1.0"
+  }
+}
