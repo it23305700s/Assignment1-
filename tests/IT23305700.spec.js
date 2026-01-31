@@ -259,7 +259,7 @@ const TEST_DATA = {
   {
     tcId: "Neg_Fun_002",
     name: "Special character inside word",
-    input: "api@paasal yanavaa.",
+    input: "api#paasal yanavaa.",
     expected: "අපි පාසල් යනවා.",
     category: "Punctuation / numbers",
     grammar: "Simple sentence",
